@@ -1,0 +1,9 @@
+logging {
+	category lame-services { null; };
+	category cname { null; };
+};
+
+zone "." {
+	type hint;
+	file "/etc/bind/db.root";
+};
