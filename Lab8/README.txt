@@ -63,30 +63,3 @@ calc.y
 5.Program terminates itself if it is an invalid expression. You can terminate the program by EOF(Ctrl+D).
 6.Only four operators +-*/ are allowed.
 7.Operands can be integer only.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
